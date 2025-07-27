@@ -1,0 +1,3 @@
+actor {
+  // Minimal stub
+}
