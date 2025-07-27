@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
@@ -131,3 +132,6 @@ dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+=======
+# DecentraMarket-NFT-Minting-Marketplace-Platform
+>>>>>>> 71170fa5c0524885e60a95c19595fde21f3c28c2
